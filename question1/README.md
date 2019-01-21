@@ -4,7 +4,7 @@ Write a shell script that does the following:
 2. Copy the "hw1_unix" directory to another directory called "hw1_unix_copy".  
 3. Create an empty file in "hw1_unix_copy" called "file1.txt".
 4. Copy the file to "hw1_unix" and rename it "file1_copy.txt".
-5. Repeat step 4 except name the file "file1_cpy2.txt".
+5. Repeat step 4 except name the file "file1_copy2.txt".
 6. List out the directories created.
 7. List out the files in the "hw1_unix" directory.
 
