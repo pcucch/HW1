@@ -1,0 +1,7 @@
+        mkdir hw1_unix;
+        cp -r hw1_unix hw1_unix_copy
+	touch /Users/paulcucchiara/hw1_unix_copy/file1.txt
+	cp /Users/paulcucchiara/hw1_unix_copy/file1.txt /Users/paulcucchiara/hw1_unix/file1_copy.txt
+	cp /Users/paulcucchiara/hw1_unix_copy/file1.txt /Users/paulcucchiara/hw1_unix/file1_copy2.txt
+        ls
+        ls -r hw1_unix
