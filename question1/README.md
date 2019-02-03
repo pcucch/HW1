@@ -10,4 +10,8 @@ Write a shell script that does the following:
 
 Hint: "../" goes back one directory
 
+Compilation steps: chmod 777 hw1_question.txt
+
+
 Output:
+
